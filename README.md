@@ -1,0 +1,1 @@
+# Typescript + Nextjs boilerplate for Citifyd projects
